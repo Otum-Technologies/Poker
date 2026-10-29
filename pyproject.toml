@@ -9,4 +9,5 @@ packages = ["game", "game.sharks"]
 [dependency-groups]
 dev = [
     "ruff>=0.17.1",
+    "rust-just>=1.59.0",
 ]
